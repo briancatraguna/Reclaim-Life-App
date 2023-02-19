@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Reclaim Life</string>
+    <string name="menu_home">Home</string>
+    <string name="community">Community</string>
+    <string name="motivation">Motivation</string>
+    <string name="reclaim_life_title">Reclaim your Life</string>
+    <string name="days_of_sober_title">Days of Sober</string>
+    <string name="days">days</string>
+    <string name="your_week_so_far">Your Week So Far</string>
+    <string name="welcome_title">Welcome</string>
+    <string name="welcome_subtitle">Let\'s start your journey to recovery.</string>
+</resources>
